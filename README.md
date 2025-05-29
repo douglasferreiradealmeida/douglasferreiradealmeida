@@ -10,8 +10,11 @@
 
 ### 🏅 Certificações e conhecimentos técnicos:
 - ✅ **AWS Certified Cloud Practitioner**
+- ✅ **Microsoft Certified: Azure Fundamentals AZ-900 Microsoft**
 - ✅ **SC-900 Microsoft Security, Compliance, and Identity Fundamentals**
 - ✅ **Certificação em Cibersegurança**
+- ✅ **Certificação Microsoft AZ-104**
+- ✅ **Microsoft 365 Certified: Teams Administrator Associate**
 - 💻 **Administração Microsoft Intune**
 - 💻 **Microsoft Azure**
 - 💻 **Google Cloud Platform (GCP)**  
