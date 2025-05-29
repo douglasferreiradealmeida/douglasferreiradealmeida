@@ -54,4 +54,4 @@
 
 
 
-💡 Apaixonado por tecnologia, sempre buscando evoluir e compartilhar conhecimento — com **AWS sempre na frente!** 🚀
+💡 Apaixonado por tecnologia, sempre buscando evoluir e compartilhar conhecimento. 🚀
