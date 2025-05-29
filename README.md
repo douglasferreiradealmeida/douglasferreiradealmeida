@@ -28,7 +28,7 @@
 
 ---
 
-### 📚 Atualmente Estudando:
+### 📚 Atualmente estudando:
 - 🧠 **AWS (sempre!)**
 - 🧠 **Azure**
 - 🧠 **Linux**
